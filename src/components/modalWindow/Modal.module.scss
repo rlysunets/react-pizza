@@ -1,0 +1,53 @@
+.modal {
+   position: fixed;
+   z-index: 10;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   background-color: rgba(0, 0, 0, 0.4);
+   transition: opacity 0.3s ease;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+   .content {
+      width: 550px;
+      margin: auto;
+      padding: 45px;
+      background-color: #fff;
+      box-shadow: 1px 1px 1px rgba(240, 128, 9, 0.13);
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+
+      .close {
+         cursor: pointer;
+         position: absolute;
+         top: 5px;
+         right: 5px;
+         transition: opacity 0.3s ease;
+         opacity: .5;
+
+         svg {
+            &:hover {
+               transform: scale(1.02);
+            }
+         }
+      }
+
+      .message {
+         text-align: center;
+         font-size: 24px;
+         margin-bottom: 30px;
+      }
+
+      .buttons {
+         display: flex;
+         justify-content: center;
+         gap: 20px;
+      }
+   }
+}

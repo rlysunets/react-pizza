@@ -29,6 +29,7 @@
 
   &__popup {
     position: absolute;
+    z-index: 1;
     right: 0;
     margin-top: 15px;
     background: #ffffff;
@@ -47,7 +48,7 @@
 
         &.active,
         &:hover {
-          background: rgba(254, 95, 30, 0.05);
+          background: rgba(210, 247, 1, 0.1);
         }
 
         &.active {

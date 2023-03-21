@@ -1,0 +1,15 @@
+import Header from "./Header"
+import Alert from "./Alert"
+import Categories from "./Categories"
+import SortPopup from "./SortPopup"
+import PizzaBlock from "./pizzaBlock/PizzaBlock"
+import LoadingBlock from "./pizzaBlock/LoadingBlock"
+import CartItem from "./CartItem"
+import CartEmpty from "./CartEmpty"
+import Search from "./search/Search"
+import Footer from "./Footer"
+import Modal from "./modalWindow/Modal"
+import Order from "./orderWindow/Order"
+import Spinner from "./Spinner"
+
+export { Header, Categories, Alert, SortPopup, PizzaBlock, LoadingBlock, CartItem, CartEmpty, Search, Footer, Spinner, Modal, Order }
