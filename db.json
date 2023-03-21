@@ -1,0 +1,292 @@
+[
+  {
+    "id": "0",
+    "imageUrl": "https://la.ua/wp-content/uploads/2022/04/italyanaltaliana-1.jpg",
+    "name": "Маргарита",
+    "description": "соус томатний, сир моцарела, помідори.",
+    "components": {
+      "proteins": 11.7,
+      "fats": 29.8,
+      "carbohydrates": 6.8,
+      "caloric": 232
+    },
+    "weight": 400,
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 245,
+    "category": 2,
+    "rating": 4
+  },
+  {
+    "id": "1",
+    "imageUrl": "https://la.ua/wp-content/uploads/2022/04/dzhavelinajavelina-1.jpg",
+    "name": "Джавеліна",
+    "description": "соус кисло-солодкий, сир моцарела, курка, цибуля, баварські ковбаски, корнішон.",
+    "components": {
+      "proteins": 14.2,
+      "fats": 22.8,
+      "carbohydrates": 6.8,
+      "caloric": 260
+    },
+    "weight": 450,
+    "types": [
+      1
+    ],
+    "sizes": [
+      26,
+      40
+    ],
+    "price": 251,
+    "category": 3,
+    "rating": 6
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://la.ua/wp-content/uploads/2022/04/chipolla-1.jpg",
+    "name": "Чіполла",
+    "description": "соус барбекю, сир моцарела, салямі, печериці, цибуля.",
+    "components": {
+      "proteins": 12.7,
+      "fats": 25.8,
+      "carbohydrates": 6.8,
+      "caloric": 255
+    },
+    "weight": 460,
+    "types": [
+      0
+    ],
+    "sizes": [
+      26,
+      40
+    ],
+    "price": 229,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://la.ua/wp-content/uploads/2021/08/tsezario.jpg",
+    "name": "Цезаріо",
+    "description": "соус бешамель, помідори, хрусткий салат, пармезан, куряче м'ясо, сир моцарела, перепелині яйця, соус 'Цезар'.",
+    "components": {
+      "proteins": 10.7,
+      "fats": 32.5,
+      "carbohydrates": 8.8,
+      "caloric": 247
+    },
+    "weight": 550,
+    "types": [
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 297,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://la.ua/wp-content/uploads/2021/08/kvatro.jpg",
+    "name": "Кватро формаджі",
+    "description": "соус бешамель, пармезан, сир моцарела, сир рікота, сир дорблю, волоський горіх, груша.",
+    "components": {
+      "proteins": 15.7,
+      "fats": 29.5,
+      "carbohydrates": 12.8,
+      "caloric": 290
+    },
+    "weight": 420,
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 279,
+    "category": 2,
+    "rating": 8
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://la.ua/wp-content/uploads/2021/08/capricciosa.jpg",
+    "name": "Капрічоза",
+    "description": "соус томатний, сир моцарела, шинка, свіжі гриби.",
+    "components": {
+      "proteins": 12.7,
+      "fats": 25.8,
+      "carbohydrates": 6.4,
+      "caloric": 220
+    },
+    "weight": 460,
+    "types": [
+      0
+    ],
+    "sizes": [
+      30,
+      40
+    ],
+    "price": 233,
+    "category": 1,
+    "rating": 2
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://la.ua/wp-content/uploads/2021/08/hawaiian.jpg",
+    "name": "Гавайська",
+    "description": "сир моцарела, соус бешамель, філе куряче, кукурудза, ананас, пармезан.",
+    "components": {
+      "proteins": 15.1,
+      "fats": 30.2,
+      "carbohydrates": 8.8,
+      "caloric": 232
+    },
+    "weight": 430,
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 237,
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://la.ua/wp-content/uploads/2021/08/peperoni.jpg",
+    "name": "Пепероні",
+    "description": "рукола, сир моцарела, соус барбекю, пепероні, пармезан.",
+    "components": {
+      "proteins": 15.7,
+      "fats": 34.5,
+      "carbohydrates": 9.8,
+      "caloric": 270
+    },
+    "weight": 470,
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 244,
+    "category": 3,
+    "rating": 10
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://la.ua/wp-content/uploads/2021/08/carbonara.jpg",
+    "name": "Карбонара",
+    "description": "соус томатний, шинка, запечене яйце, сир моцарела, баварські ковбаски.",
+    "components": {
+      "proteins": 13.7,
+      "fats": 25.7,
+      "carbohydrates": 9.8,
+      "caloric": 285
+    },
+    "weight": 450,
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 237,
+    "category": 1,
+    "rating": 10
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://la.ua/wp-content/uploads/2021/08/salyami.jpg",
+    "name": "Салямі",
+    "description": "соус томатний, сир моцарела, ковбаса салямі.",
+    "components": {
+      "proteins": 14.7,
+      "fats": 25.8,
+      "carbohydrates": 5.8,
+      "caloric": 245
+    },
+    "weight": 440,
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 234,
+    "category": 1,
+    "rating": 7
+  },
+  {
+    "id": "10",
+    "imageUrl": "https://la.ua/wp-content/uploads/2021/08/diabola.jpg",
+    "name": "Діабола",
+    "description": "соус томатний, сир моцарела, маринований перець чилі, ковбаса пепероні.",
+    "components": {
+      "proteins": 12.7,
+      "fats": 26.8,
+      "carbohydrates": 10.3,
+      "caloric": 266
+    },
+    "weight": 440,
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 230,
+    "category": 3,
+    "rating": 7
+  },
+  {
+    "id": "11",
+    "imageUrl": "https://la.ua/wp-content/uploads/2021/08/calzone.jpg",
+    "name": "Кальцоне аль Форно",
+    "description": "соус томатний, сир моцарела, сир рікота, шинка, помідори.",
+    "components": {
+      "proteins": 12.7,
+      "fats": 28.1,
+      "carbohydrates": 12.8,
+      "caloric": 275
+    },
+    "weight": 400,
+    "types": [
+      1
+    ],
+    "sizes": [
+      30
+    ],
+    "price": 207,
+    "category": 4,
+    "rating": 7
+  }
+]
